@@ -1,8 +1,6 @@
 # 新的旅程：Svelte
  
- - 開一個新的 README，舊的保留，但是名稱改為 `README-old`
- 
- ## 241119
+## 241119
 
 - 試著用 Svelte 來改寫之前 todo-list 的作業
 - 初步把 HTML 跟 CSS 移植完成
