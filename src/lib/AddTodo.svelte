@@ -1,7 +1,10 @@
 <script>
 	"use strict";
 
-	let addTodo = $state("");
+	let { addTodo = $bindable() } = $props();
+	$effect(() => {
+		console.log(addTodo);
+	});
 </script>
 
 <div class="card input">
