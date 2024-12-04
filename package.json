@@ -10,9 +10,9 @@
   },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^5.0.1",
-    "sass-embedded": "^1.81.0",
-    "svelte": "^5.3.1",
-    "vite": "^6.0.1"
+    "sass-embedded": "^1.82.0",
+    "svelte": "^5.5.3",
+    "vite": "^6.0.2"
   },
   "dependencies": {
     "eslint": "^9.16.0",

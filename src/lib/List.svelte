@@ -1,5 +1,8 @@
 <script>
 	"use strict";
+
+	import AddTodo from "./AddTodo.svelte";
+	let addTodo = $state("");
 </script>
 
 <div class="card card_list">
